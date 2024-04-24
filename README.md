@@ -24,7 +24,7 @@ I assumed the role of Cyber Incident Responder within my Security Operations Cen
 
 ![Brute Force Success - Windows](https://github.com/VanessaMancia/Incident-Response-Documentation/assets/112146207/8424006b-e6bc-4dc3-af4e-10c740812759)
 
-## Findings 
+## Detection & Analysis 
 * 113.186.155.64 - Attacker / Entity 
 * Details: City: Viet Tri
 * Country: Vietnam 
@@ -85,6 +85,9 @@ The account was local to the Linux machine, non-admin, and essentially low impac
 ---
 
 ## Incident ID 18 Malware Detected
+
+![Screenshot (18)](https://github.com/VanessaMancia/Incident-Response-Documentation/assets/112146207/8ac49081-62a5-4486-b0d9-408d69da72f7)
+
 
 ## Detection & Analysis
 * This happened around 02/10/24 12:53 AM
